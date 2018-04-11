@@ -8,6 +8,11 @@ Codewars assignment
 
 ## Getting Started
 
+Link to kata:
+https://www.codewars.com/kata/56f699cd9400f5b7d8000b55
+
+Solutions:
+https://www.codewars.com/kata/my-head-is-at-the-wrong-end/solutions/javascript
 
 ## Architecture
 JS
