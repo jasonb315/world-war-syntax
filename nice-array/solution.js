@@ -7,8 +7,7 @@ function isNice(arr){
       trueCount += 1;
       }//close if
     }//close loop
-      console.log('arr= ' + arr)
-      console.log('truecount= ' + trueCount)
+
       if (trueCount !== arr.length && arr.length > 0 ){
       return false;
       } else if (trueCount === arr.length && arr.length > 0 ){
@@ -16,4 +15,3 @@ function isNice(arr){
       } else {
       return false; }
 };
-  
