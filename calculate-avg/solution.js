@@ -3,4 +3,4 @@ function find_average(array) {
   return (acc + cur)
   })
   return numbers/array.length;
-}
+};
